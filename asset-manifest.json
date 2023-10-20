@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TWT-React/static/css/main.073c9b0a.css",
+    "main.js": "/TWT-React/static/js/main.80166088.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/TWT-React/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/TWT-React/index.html",
+    "main.073c9b0a.css.map": "/TWT-React/static/css/main.073c9b0a.css.map",
+    "main.80166088.js.map": "/TWT-React/static/js/main.80166088.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/TWT-React/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.80166088.js"
+  ]
+}
